@@ -10,7 +10,7 @@ Perhaps hearing these avian anthems will inspire people to protect and listen fo
 - Typescript
 - Cypress testing
 - GitHub Project Board
-- Mira project planning 
+- Miro project planning 
 - Figma for mock ups
 - Google Sheets for daily standup
 - API from https://xeno-canto.org/
